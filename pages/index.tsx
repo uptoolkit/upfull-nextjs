@@ -41,6 +41,10 @@ const Index = () => {
 
   return viewer ? (
     <div>
+      <h1 className="text-3xl font-bold underline">
+        Hello world!
+      </h1>
+
       You're signed in as {viewer.name} and you're {viewer.status}. Go to the{' '}
       <Link href="/about">
         <a>about</a>
