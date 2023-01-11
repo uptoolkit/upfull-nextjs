@@ -2,21 +2,16 @@
 
 exports[`Index renders the html we want 1`] = `
 <div>
+  <h1
+    className="text-3xl font-bold underline"
+  >
+    Hello world!
+  </h1>
   You're signed in as 
   Baa
    and you're 
   Healthy
-  . Go to the
-   
-  <a
-    href="/about"
-    onClick={[Function]}
-    onMouseEnter={[Function]}
-  >
-    about
-  </a>
-   
-  page.
+  .
   <div>
     <input
       onChange={[Function]}
