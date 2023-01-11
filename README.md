@@ -7,7 +7,7 @@ Complete Fullstack Boilerplate with NextJS, GraphqlYoga, Tailwind and Ant Design
 Just launch : 
 
 ```bash
-yarn && yarn dev
+yarn && yarn build && yarn dev
 ```
 
 ## How to connect your GraphQL Backend URL ?
